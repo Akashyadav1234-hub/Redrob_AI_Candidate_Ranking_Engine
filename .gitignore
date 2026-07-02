@@ -1,0 +1,7 @@
+# Ignore massive datasets
+candidates.jsonl
+*.gz
+sandbox_candidates.jsonl
+
+# Ignore Mac system files
+.DS_Store
